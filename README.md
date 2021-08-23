@@ -7,7 +7,8 @@
 
 - I'm interested in AutoEncoder & Anomaly detection 
 - also time-sereise data analytics
-- :fireworks: not to forget NLP
+- :fireworks: not to forget NLP.  
+
 
 ## ⭐ stack
 ### platforms & languages
@@ -17,9 +18,11 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+   
+   
+   
 
 
-- my moto is, 
 ###  🚀 I can do this all day 
 
 
