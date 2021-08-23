@@ -7,17 +7,17 @@
 
 - I'm interested in AutoEncoder & Anomaly detection 
 - also time-sereise data analytics
-- :fireworks: not to forget NLP.  
+- not to forget NLP.  
 
 
 ## ⭐ stack
 ### platforms & languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%392f31.svg?style=for-the-badge&logo=pandas&logoColor=white).
+![Pandas](https://img.shields.io/badge/pandas-%171515.svg?style=for-the-badge&logo=pandas&logoColor=white).
 
-![Linux](https://img.shields.io/badge/Linux-%392f31?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Apache](https://img.shields.io/badge/apache-%392f31.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%171515?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Apache](https://img.shields.io/badge/apache-%171515.svg?style=for-the-badge&logo=apache&logoColor=white)
    
    
    
