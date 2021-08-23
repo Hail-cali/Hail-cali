@@ -3,12 +3,12 @@
 >
 > :mechanical_arm:`ML engineer`,   
 > :school_satchel:`ML master degree` at now.  
-> I do code not a copy. 
+> 🧱 I do code not a copy. 
 
 - i'm interested in AutoEncoder & Anomaly detection 
 - also time-sereise data analytics
 - :fireworks:not to forgat NLP
-  - saddly almost my work done with lab or course requirements.
+
 
 - my moto is, 
 ###  🚀 i can do this all day 
