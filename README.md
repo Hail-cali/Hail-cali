@@ -5,13 +5,13 @@
 > :school_satchel: `ML master degree` at now.  
 > 🧱 I do code not a copy. 
 
-- i'm interested in AutoEncoder & Anomaly detection 
+- I'm interested in AutoEncoder & Anomaly detection 
 - also time-sereise data analytics
 - :fireworks: not to forget NLP
 
 
 - my moto is, 
-###  🚀 i can do this all day 
+###  🚀 I can do this all day 
 
 
  
