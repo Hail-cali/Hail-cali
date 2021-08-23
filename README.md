@@ -1,9 +1,9 @@
 # Hail's github
 
 >
-> :mechanical_arm:`ML engineer`, 
-> :school_satchel:`ML master degree` at now.
-> I do code not a copy
+> :mechanical_arm:`ML engineer`,   
+> :school_satchel:`ML master degree` at now.  
+> I do code not a copy. 
 
 - i'm interested in AutoEncoder & Anomaly detection 
 - also time-sereise data analytics
