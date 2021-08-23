@@ -16,8 +16,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-171515.svg?style=for-the-badge&logo=pandas&logoColor=white).
 
-![Linux](https://img.shields.io/badge/Linux-ff1515.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Apache](https://img.shields.io/badge/apache-ff1515.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Apache](https://img.shields.io/badge/apache-3a3535.svg?style=for-the-badge&logo=apache&logoColor=white)
    
    
    
