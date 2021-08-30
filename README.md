@@ -3,7 +3,7 @@
 >
 > :mechanical_arm: `ML engineer`,   
 > :school_satchel: `ML master degree` at now.  
-> 🧱 I do code not a copy. 
+
 
 - I'm interested in AutoEncoder & Anomaly detection 
 - also time-sereise data analytics
