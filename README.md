@@ -1,8 +1,8 @@
 # Hail's github
 
 >
-> :mechanical_arm: `ML engineer`,   
-> :school_satchel: `ML master degree` at now.  
+> :mechanical_arm: `DL engineer`,   
+> :school_satchel: `AI master degree` at now.  
 
 
 - I'm interested in AutoEncoder & Anomaly detection 
@@ -17,8 +17,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-171515.svg?style=for-the-badge&logo=pandas&logoColor=white).
 
 ![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Apache](https://img.shields.io/badge/apache-3a3535.svg?style=for-the-badge&logo=apache&logoColor=white)
-   
+![Kubernetes](https://img.shields.io/badge/kuber-326CE5.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=apache&logoColor=white)
    
    
 
