@@ -5,9 +5,10 @@
 > :school_satchel: `AI master degree` at now.  
 
 
-- I'm interested in AutoEncoder & Anomaly detection 
-- also time-sereise data analytics
-- not to forget NLP.  
+- I'm interested in  Representation learning, Vision
+- sub - pravacy preserving, federeate learning
+
+  
 
 
 ## ⭐ stack
