@@ -6,7 +6,7 @@
 
 
 - I'm interested in  Representation learning, Vision
-- sub - pravacy preserving, federeate learning
+- sub - privacy preserving, federeate learning
 
   
 
