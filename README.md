@@ -1,13 +1,13 @@
 # Hail's github
 
 >
-> :mechanical_arm: `DL engineer`,   
-> :school_satchel: `AI master degree` at now.  
+> :mechanical_arm: `DL engineer` or could be `Data engineer`
+> :school_satchel: `Computing master degree` at now.  
 
 
 - I'm interested in  Representation learning, Vision
-- sub - privacy preserving, federated learning
-
+- privacy preserving, federated learning
+- Paper was writed on Federated learning & mobile network
   
 
 
@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-![Spark](https://img.shields.io/badge/spark-66CCFF.svg?style=for-the-badge&logo=apache-spark&logoColor=white).
+![Spark](https://img.shields.io/badge/spark-66CCFF.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
