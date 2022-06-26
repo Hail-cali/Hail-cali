@@ -12,7 +12,7 @@
   
 
 
-## ⭐ stack
+## ⭐ Stack
 ### platforms & languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -38,6 +38,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hail-cali&&show_icons=true&theme=cobalt)
 
 
+## 🌙 Noices
+
+- this github's accounts will be on long sleeper mode
+- more work or project would followed by kail-cali (https://github.com/kail-cali)
+- also Project contain engineering & backend, with a small bit deeplearning
+- Good bye
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHail-cali&count_bg=%23333532&title_bg=%2342FF74&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
